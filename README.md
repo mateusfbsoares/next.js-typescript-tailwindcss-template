@@ -1,4 +1,8 @@
-# projeto feito com:
+# Como utilizar
+- run **npm install**
+- run **npm run dev""
+
+# Projeto feito com
 
 - **npx create-next-app -e with-tailwindcss PROJECT_NAME/DIRECTORY** (default Next.js + Tailwind CSS Example)
 - **npm install tailwind-scrollbar-hide**
